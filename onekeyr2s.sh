@@ -1,4 +1,5 @@
 #!/bin/bash
+
 cp -r ./SCRIPTS/. ./
 bash 01_get_ready.sh
 cd openwrt
